@@ -56,11 +56,11 @@ This is Part 1, just the proposal and basic structure. Part 2 is the CSS and mak
 ### Responsive Design Evidence
 
 #### Mobile (375px) 
-![Mobile view](./images/Mobile.png.png)
+![Mobile view](./images/mobile.png.png)
 
 #### Tablet (768px) 
 ![Tablet view](./images/Tablet.png.png)
 
 #### Desktop (1920px)
-![Desktop view](./images/Desktop.png.png)
+![Desktop view](./images/desktop.png.png)
 
