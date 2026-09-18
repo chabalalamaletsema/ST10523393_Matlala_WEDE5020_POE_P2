@@ -63,5 +63,5 @@ This is Part 1, just the proposal and basic structure. Part 2 is the CSS and mak
 
 #### Desktop (1920px)
 ![Desktop view](./images/desktop 1.png.png)
-![Desktop view](./images/desktop1 (2).png)
+
 
